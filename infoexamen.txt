@@ -1,0 +1,50 @@
+* commit 422850afe127a3706140b398747dfb9e8bb92e5f (Rama_ejercicio2)
+| Author: nacheteab <ignacioab7@gmail.com>
+| Date:   Fri May 7 09:23:31 2021 +0200
+| 
+|     Captura de pantalla script 2
+| 
+* commit f74ef4d849e3c829af2761d54944f2216c1ff8bc
+| Author: nacheteab <ignacioab7@gmail.com>
+| Date:   Fri May 7 09:23:08 2021 +0200
+| 
+|     Subimos ejercicio 2 modificado
+| 
+* commit edd360a7ac5ea2bbc8f73a9f60c350d2bfe59d7d
+| Author: nacheteab <ignacioab7@gmail.com>
+| Date:   Fri May 7 09:22:06 2021 +0200
+| 
+|     Ejercicio 2 primera subida
+| 
+* commit 10845b4ad0f50c5aa2533ebd4c75153400b6cf03 (HEAD -> master, nacheteab/master)
+| Author: nacheteab <ignacioab7@gmail.com>
+| Date:   Fri May 7 09:19:40 2021 +0200
+| 
+|     MONITORIZACION_2.png
+| 
+* commit 4e5852c1e4627f3e15e31bd1a675d323b498c4fe
+| Author: nacheteab <ignacioab7@gmail.com>
+| Date:   Fri May 7 09:19:13 2021 +0200
+| 
+|     Primera imagen monitorizacion
+| 
+* commit 98970410cbdb451d25a3f1fd579710741d6cdbd0
+| Author: nacheteab <ignacioab7@gmail.com>
+| Date:   Fri May 7 09:18:42 2021 +0200
+| 
+|     Segunda
+| 
+* commit 9aeec1b5b4bfa3015a885c9007f75b9b5d416059
+  Author: nacheteab <ignacioab7@gmail.com>
+  Date:   Fri May 7 09:16:48 2021 +0200
+  
+      Primera vez que añadimos algo
+10845b4 HEAD@{0}: checkout: moving from Rama_ejercicio2 to master
+422850a HEAD@{1}: commit: Captura de pantalla script 2
+f74ef4d HEAD@{2}: commit: Subimos ejercicio 2 modificado
+edd360a HEAD@{3}: commit: Ejercicio 2 primera subida
+10845b4 HEAD@{4}: checkout: moving from master to Rama_ejercicio2
+10845b4 HEAD@{5}: commit: MONITORIZACION_2.png
+4e5852c HEAD@{6}: commit: Primera imagen monitorizacion
+9897041 HEAD@{7}: commit: Segunda
+9aeec1b HEAD@{8}: commit (initial): Primera vez que añadimos algo
